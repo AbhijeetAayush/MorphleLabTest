@@ -19,10 +19,10 @@ This can be useful for quickly monitoring system information on a web interface.
 - **Real-time Resource Monitoring** 🚀
 
 ## Technologies Used
-Django: Web framework for building and serving the application.
-Python: Core programming language for the application logic.
-Subprocess: To retrieve the system's top command output.
-pytz: For timezone management, specifically to display IST.
+- Django: Web framework for building and serving the application.
+- Python: Core programming language for the application logic.
+- Subprocess: To retrieve the system's top command output.
+- pytz: For timezone management, specifically to display IST.
 
 ## 🛠️ Setup Instructions
 
